@@ -1,3 +1,4 @@
+![logo](https://github.com/Rakeshlodhi34/rakeshlodhi34/blob/main/githubBanner.png)
 <h1 align="center">Hi 👋, I'm Rakesh Lodhi</h1>
 <h3 align="center">A passionate Btech student from India</h3>
 
